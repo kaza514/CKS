@@ -1,6 +1,4 @@
-
-
-## cd /root/Assessor-CLI
+# Generating CIS-CAT 
 
 ## sh ./Assessor-CLI.sh -i -rd /var/www/html/ -nts -rp index
 
